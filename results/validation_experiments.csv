@@ -1,0 +1,6 @@
+,precision,recall,f1
+keyword rule,0.997,0.995,0.996
+TF-IDF + LogReg,0.968,0.907,0.936
+Char-CNN (thr 0.5),0.983,0.953,0.968
+Char-CNN (thr 0.7),0.991,0.948,0.969
+"Char-CNN, no normalization (thr 0.5)",0.961,0.948,0.954
